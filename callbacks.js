@@ -25,3 +25,12 @@ filteredArray.forEach(car => {
     console.log(car);
 })
 
+// Show us what you've learned. Make your own filterArray using a callback function and the filter method above. 
+
+const yourFilteredArray = null;
+
+if(yourFilteredArray){
+    yourFilteredArray.forEach(element => {
+        console.log(element);
+    })
+}
